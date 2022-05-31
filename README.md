@@ -1,11 +1,11 @@
 # Esse site tem por objetivo criar um front end para um cliete mostar seu serviço na Internet. 
 
-No qual mostra o serviço dele em diversas areas de atuaçoes no ramo da Engenharia civil.
+No qual mostra o serviço dele em diversas áreas de atuações no ramo da Engenharia civil.
 
 O site apresentado foi desenvolvido com as tecnologias HTML, CSS e Java Script. Futuramente será migrado para o ASP.NET Core Blazor. (Recuso em andamento)
 
 
-Esse site esta hospedado em 
+Esse site esta hospedado em https://app.netlify.com/sites/salomaoimpermeabilizacoes/overview
 
 Segue algums print de tela. 
 
