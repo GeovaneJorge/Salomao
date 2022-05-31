@@ -5,7 +5,7 @@ No qual mostra o serviço dele em diversas áreas de atuações no ramo da Engen
 O site apresentado foi desenvolvido com as tecnologias HTML, CSS e Java Script. Futuramente será migrado para o ASP.NET Core Blazor. (Recuso em andamento)
 
 
-Esse site esta hospedado em https://app.netlify.com/sites/salomaoimpermeabilizacoes/overview
+Esse site esta hospedado em https://salomaoimpermeabilizacoes.netlify.app/
 
 Segue algums print de tela. 
 
