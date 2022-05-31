@@ -1,4 +1,4 @@
-# Esse site tem por objetivo criar um cartão de front end para um cliete e amigo meu. 
+# Esse site tem por objetivo criar um front end para um cliete mostar seu serviço na Internet. 
 
 No qual mostra o serviço dele em diversas areas de atuaçoes no ramo da Engenharia civil.
 
