@@ -15,6 +15,6 @@ Tela inicial.
 ![alt text](https://github.com/GeovaneJorge/Salomao/blob/main/images/Img3.JPG)
 
 Tela de Contatos.
-![alt text](https://github.com/GeovaneJorge/Salomao/blob/main/images/Img4.JP4)
+![alt text](https://github.com/GeovaneJorge/Salomao/blob/main/images/Img4.JPG)
 
 Estou estudando para migrar o site e trazer novas melhorias com o ASP.NET Core Blazor.
