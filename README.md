@@ -1,6 +1,6 @@
-# Esse site tem por objetivo um portifolio para uma amigo meu mostar seu serviço na Internet. 
+# Esse site tem por objetivo criar um portifolio para uma amigo meu divulgar  seu serviço na Internet. 
 
-No qual mostra o serviço dele em diversas áreas de atuações no ramo da Engenharia civil.
+No qual é apresentado o serviço em diversas áreas de atuações no ramo da Engenharia civil.
 
 O site apresentado foi desenvolvido com as tecnologias HTML, CSS e Java Script. Futuramente será migrado para o ASP.NET Core Blazor. (Recuso em andamento)
 
