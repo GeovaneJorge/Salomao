@@ -1,4 +1,4 @@
-# Esse site tem por objetivo criar um front end para um cliete mostar seu serviço na Internet. 
+# Esse site tem por objetivo um portifolio para uma amigo meu mostar seu serviço na Internet. 
 
 No qual mostra o serviço dele em diversas áreas de atuações no ramo da Engenharia civil.
 
