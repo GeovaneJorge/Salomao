@@ -2,7 +2,7 @@
 
 No qual é apresentado o serviço em diversas áreas de atuações no ramo da Engenharia civil.
 
-O site apresentado foi desenvolvido com as tecnologias HTML, CSS e Java Script. Futuramente será migrado para o ASP.NET Core Blazor. (Recuso em andamento)
+O site apresentado foi desenvolvido com as tecnologias HTML, CSS e Java Script. Futuramente será migrado para o Blazor. (Recuso em andamento)
 
 
 Esse site esta hospedado em https://salomaoimpermeabilizacoes.netlify.app/
